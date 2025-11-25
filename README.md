@@ -1,6 +1,6 @@
 # Simulations of dipole trapping and Rabi cycling of cold CO molecules
 
-The code contained in this repository refers to some of the simulations I performed during my Ph.D. at LENS (Europen Laboratory of Non-Linear Spectroscopy, University of Florence, Italy) working in the G. Santambrogio's cold molecules lab. Some codes are written in C/C++ and integrated with bash scripting in order to make it easy to use within Linux environment provided by GnuPlot, while others are written within Wolfram Mathematica 12.
+The code contained in this repository refers to some of the simulations I performed during my Ph.D. at LENS (European Laboratory of Non-Linear Spectroscopy, University of Florence, Italy) working in the G. Santambrogio's cold molecules lab. Some codes are written in C/C++ and integrated with bash scripting in order to make it easy to use within Linux environment provided by GnuPlot, while others are written within Wolfram Mathematica 12. The code has been extensively used for obtaining the results described within my Ph.D. Thesis [“Simulation of optical dipole trapping of cold CO molecules”](https://flore.unifi.it/retrieve/e398c37f-b59f-179a-e053-3705fe0a4cff/PhD_Thesis_Maurizio_Verde.pdf). 
 
 This repo is structured as follows:
 
