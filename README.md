@@ -19,6 +19,5 @@ It contains files to "graphically check" the correct implementation of the decay
 ### Trapping Probability
 It contains files to simulate the molecular trajectories and to predict the number of finally trapped ground-state CO molecules by varying different subset of experimental parameters.
 
-## Test Update
-This line was added from VS Code
+
         
